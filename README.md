@@ -1,1 +1,1 @@
-## Undertood how to make chatbots using langgraph.
+## Undertood how to make context aware chatbots using langgraph.
